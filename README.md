@@ -1,0 +1,1 @@
+Yksinkertainen peli, jossa satunnaisesti generoituja kuvioita raahataan ruudukkoon. Pisteitä saa, kun ruudukon jokin rivi täyttyy pysty- tai vaakasuunnassa. Peli päättyy, jos jokin kuvioista ei mahdu ruudukkoon.
